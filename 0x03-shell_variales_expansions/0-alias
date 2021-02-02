@@ -1,0 +1,7 @@
+#!/bin/bash
+# alias script
+
+alias Name = "ls"
+alias Value ="rm *"
+
+\n
